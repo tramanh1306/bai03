@@ -27,8 +27,8 @@
 ?><!--6p58-->
 <br>
 <?php
-	$firstName = 'Le Ha';
-	$lastName = 'Quoc Thinh';
+	$firstName = 'Truong Thi';
+	$lastName = 'Tram Anh';
 	$fullName = $firstName . ' '. $lastName;
 	echo $fullName;
 ?><!--8p25-->
